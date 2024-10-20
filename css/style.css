@@ -1,0 +1,52 @@
+td, th {
+	border: 3px solid;
+	padding: 5px;
+  text-align: center;
+  }
+
+tr:nth-child(even) {
+  background-color: #000000;
+}
+
+tbody tr:nth-child(odd) {
+  background-color: #000000;
+	}
+
+table {
+  width: 100%;
+}
+
+body {
+  color: white;
+}
+
+h1 {
+  color: white;
+	text-align: center;
+	font-size: 70px;
+	margin: 70px 75px 70px 75px
+}
+
+.quantico-regular {
+  font-family: "Quantico", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.quantico-bold {
+  font-family: "Quantico", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.quantico-regular-italic {
+  font-family: "Quantico", serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.quantico-bold-italic {
+  font-family: "Quantico", serif;
+  font-weight: 700;
+  font-style: italic;
+}
